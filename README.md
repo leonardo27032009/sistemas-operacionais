@@ -1,4 +1,5 @@
 
+
 # Windows e seus avanços
 
 ### Nesse texto vamos falar sobre o sistema operacional Windows, falando um pouco de sua historia, suas principais versões, suas características e sua evolução ao longo do tempo.
@@ -40,5 +41,26 @@ O Windows é composto por varios componentes, que trabalham em equipe, para um b
 
 ![Um gabinete de Windows desmontado](https://www.mundoconectado.com.br/wp-content/uploads/2019/12/ifixit_macpro_chamada.jpg)
 
+# Cinco comandos do Windows
+1. ls: Lista o conteúdo de um diretório. Esse comando é usado no terminal de sistemas Unix/Linux para visualizar arquivos e pastas presentes em um diretório.
+
+2. cd: Altera o diretório de trabalho. Usado para navegar entre diretórios no terminal.
+
+3. mkdir: Cria um novo diretório. Este comando é útil quando você deseja criar pastas no sistema.
+
+4. rm: Remove arquivos ou diretórios. Pode ser perigoso, pois exclui permanentemente arquivos, então é importante usá-lo com cuidado.
+
+5. cp: Copia arquivos ou diretórios de um local para outro. Você pode usar esse comando para fazer backup ou mover arquivos.
+
+# Cinco curiosidades sobre o Windows
+1. Windows 98 foi um dos primeiros sistemas a incluir suporte completo para a internet, com o Internet Explorer integrado diretamente, marcando a transição para a era digital.
+
+2. O nome "Windows" vem das "janelas" na interface gráfica.
+
+3. O Windows XP foi um dos sistemas mais amados, permanecendo popular mesmo após o fim do suporte em 2014.
+
+4. O som de inicialização do Windows é icônico, mas foi desativado nas versões mais recentes.
+
+5. O Windows 95 introduziu o menu "Iniciar", se tornando um marco na história dos sistemas operacionais.
 
 
